@@ -1,5 +1,5 @@
-## Interface: 90200
-## Version: 1.0.3
+## Interface: 90205
+## Version: 1.0.4
 ## Title:|cffffffffMinecraft|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,6 +7,8 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/MCLU
 ## X-Curse-Project-ID: 594151
+## X-Tukui-ProjectID: 228
+## X-Wago-ID: vEGP4OG1
 ## X-WoWI-ID: 26256
 
 main.lua
